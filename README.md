@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aivisualized.com/">
-    <img src="assets/ai-visualized-logo.png" alt="AIvisualized" width="420" />
+    <img src="assets/ai-visualized-logo.png" alt="AIvisualized" width="252" />
   </a>
 </p>
 
