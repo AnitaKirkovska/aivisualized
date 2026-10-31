@@ -1,6 +1,6 @@
 # AIvisualized
 
-AI news and ideas, explained through videos and researched articles by [Anita Kirkovska](https://aivisualized.com/authors/anita-kirkovska/).
+The latest AI developments, research breakthroughs, and new products, explained through videos and researched articles by [Anita Kirkovska](https://aivisualized.com/authors/anita-kirkovska/).
 
 **[Explore AIvisualized →](https://aivisualized.com/)**
 
