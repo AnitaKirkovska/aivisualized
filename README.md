@@ -8,16 +8,16 @@ This is the public directory of my explainers. Each entry links to the complete 
 
 ## Articles
 
-- **[OpenAI’s ETH claim: what it means for P vs NP](https://aivisualized.com/articles/ojSe4sOL20A/)**
-  OpenAI says its AI has refuted the Exponential Time Hypothesis.
+- **[OpenAI’s ETH claim: what it means for P vs NP](https://aivisualized.com/articles/ojSe4sOL20A/)**  
+  OpenAI says its AI has refuted the Exponential Time Hypothesis.  
   [Companion video and transcript](https://aivisualized.com/videos/ojSe4sOL20A/) · [Watch on YouTube](https://www.youtube.com/watch?v=ojSe4sOL20A)
 
-- **[Anthropic’s IPO: why an $80.7 billion loss needs context](https://aivisualized.com/articles/jdumOwuk8A4/)**
-  Anthropic’s S-1 reports $16.3 billion in revenue and an $80.7 billion net loss for the first half of 2026.
+- **[Anthropic’s IPO: why an $80.7 billion loss needs context](https://aivisualized.com/articles/jdumOwuk8A4/)**  
+  Anthropic’s S-1 reports $16.3 billion in revenue and an $80.7 billion net loss for the first half of 2026.  
   [Companion video and transcript](https://aivisualized.com/videos/jdumOwuk8A4/) · [Watch on YouTube](https://www.youtube.com/watch?v=jdumOwuk8A4)
 
-- **[Is AI overhyped? Start with the work people are actually doing](https://aivisualized.com/articles/m_5_FLl_V4Q/)**
-  A casual chatbot user and someone building software with an agent can give opposite verdicts on AI.
+- **[Is AI overhyped? Start with the work people are actually doing](https://aivisualized.com/articles/m_5_FLl_V4Q/)**  
+  A casual chatbot user and someone building software with an agent can give opposite verdicts on AI.  
   [Companion video and transcript](https://aivisualized.com/videos/m_5_FLl_V4Q/) · [Watch on YouTube](https://www.youtube.com/watch?v=m_5_FLl_V4Q)
 
 ## Videos
