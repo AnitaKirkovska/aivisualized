@@ -10,14 +10,14 @@ The latest AI developments, research breakthroughs, and new products, explained 
 
 ## Videos
 
-- **[Subvocal’s AI glasses: Talk to AI without saying a word](https://aivisualized.com/videos/77aTqr6T5gk/)**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=77aTqr6T5gk) · [Read the article](https://aivisualized.com/articles/77aTqr6T5gk/)
+- **[Subvocal’s AI glasses: Talk to AI without saying a word](https://aivisualized.com/videos/subvocal-ai-glasses-silent-speech/)**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=77aTqr6T5gk) · [Read the article](https://aivisualized.com/articles/subvocal-silent-speech-glasses-how-they-work/)
 
-- **[Did AI just crack a 27-year-old rule? P vs NP explained](https://aivisualized.com/videos/ojSe4sOL20A/)**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=ojSe4sOL20A) · [Read the article](https://aivisualized.com/articles/ojSe4sOL20A/)
+- **[Did AI just crack a 27-year-old rule? P vs NP explained](https://aivisualized.com/videos/p-vs-np-openai-eth-claim-explained/)**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=ojSe4sOL20A) · [Read the article](https://aivisualized.com/articles/openai-eth-claim-p-vs-np/)
 
-- **[Anthropic IPO Explained: $16B In, $80B Lost?](https://aivisualized.com/videos/jdumOwuk8A4/)**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=jdumOwuk8A4) · [Read the article](https://aivisualized.com/articles/jdumOwuk8A4/)
+- **[Anthropic IPO Explained: $16B In, $80B Lost?](https://aivisualized.com/videos/anthropic-ipo-revenue-loss-explained/)**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=jdumOwuk8A4) · [Read the article](https://aivisualized.com/articles/anthropic-ipo-80-billion-loss-explained/)
 
-- **[Is AI overhyped? Depends who you ask](https://aivisualized.com/videos/m_5_FLl_V4Q/)**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=m_5_FLl_V4Q) · [Read the article](https://aivisualized.com/articles/m_5_FLl_V4Q/)
+- **[Is AI overhyped? Depends who you ask](https://aivisualized.com/videos/is-ai-overhyped/)**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=m_5_FLl_V4Q) · [Read the article](https://aivisualized.com/articles/is-ai-overhyped-real-world-workflows/)
