@@ -10,6 +10,9 @@ The latest AI developments, research breakthroughs, and new products, explained 
 
 ## Videos
 
+- **[Subvocal’s AI glasses: Talk to AI without saying a word](https://aivisualized.com/videos/77aTqr6T5gk/)**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=77aTqr6T5gk) · [Read the article](https://aivisualized.com/articles/77aTqr6T5gk/)
+
 - **[Did AI just crack a 27-year-old rule? P vs NP explained](https://aivisualized.com/videos/ojSe4sOL20A/)**  
   [Watch on YouTube](https://www.youtube.com/watch?v=ojSe4sOL20A) · [Read the article](https://aivisualized.com/articles/ojSe4sOL20A/)
 
