@@ -11,7 +11,7 @@ The latest AI developments, research breakthroughs, and new products, explained 
 ## Videos
 
 - **[Claude Fable 5.2 - Everything you need to know](https://aivisualized.com/videos/claude-fable-5-2-everything-you-need-to-know/)**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=fmw0LFA9_xw)
+  [Watch on YouTube](https://www.youtube.com/watch?v=fmw0LFA9_xw) · [Read the article](https://aivisualized.com/articles/claude-fable-5-2-real-work-benchmarks/)
 
 - **[Subvocal’s AI glasses: Talk to AI without saying a word](https://aivisualized.com/videos/subvocal-ai-glasses-silent-speech/)**  
   [Watch on YouTube](https://www.youtube.com/watch?v=77aTqr6T5gk) · [Read the article](https://aivisualized.com/articles/subvocal-silent-speech-glasses-how-they-work/)
